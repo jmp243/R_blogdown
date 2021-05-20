@@ -36,3 +36,5 @@ HUGO_VERSION = "0.83.1"
 .Ruserdata
 public/
   .DS_Store
+
+# https://www.emmanuelteitelbaum.com/post/create-a-website-with-blogdown-and-hugo/
